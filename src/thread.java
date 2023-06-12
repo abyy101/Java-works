@@ -1,6 +1,5 @@
-public class newone2 {
+public class thread {
     public static void main(String[] args) {
-
 
     }
 }
